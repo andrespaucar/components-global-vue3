@@ -1,6 +1,6 @@
 # components-global-vue3
 Registrar componentes globales en Vue3
-- Si trabajas con PHP(Laravel) y Vue3, quisas necesites registrar los componentes de manera global y tener en archivos separados los Componentes y las Paginas.
+- Si trabajas con PHP(Laravel) y Vue3, quizas necesites registrar los componentes de manera global y tener en archivos separados los Componentes y las Paginas.
 
 index.js
 ```
