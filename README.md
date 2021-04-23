@@ -9,7 +9,7 @@ import globalComponenst from './components/index'
 const app = createApp({}) 
  
 globalComponenst(app)
-//Registre componet PAGE
+//Registra el componente Pagina
 //app.component('page-pos-cash',require('./views/dashboard/index.vue').default)
 
 app.mount("#app")
